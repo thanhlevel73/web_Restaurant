@@ -1,4 +1,8 @@
-@media (max-width:1023px) {}
+@media (max-width:1023px) {
+    a {
+        text-decoration: none;
+    }
+}
 
 /* tablet */
 @media (min-width:740px) and (max-width:1023px) {
@@ -17,6 +21,9 @@
         margin-top: 180px;
     }
 
+    a {
+        text-decoration: none;
+    }
 
 }
 
@@ -49,5 +56,7 @@
         margin-left: 20px;
     }
 
-
+    a {
+        text-decoration: none;
+    }
 }
