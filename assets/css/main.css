@@ -53,8 +53,6 @@ nav>menu>p {
     font-weight: 400;
 }
 
-
-
 nav>menu>button {
     margin: 0 10px;
     font-size: 1.6rem;
@@ -159,10 +157,6 @@ main {
 main ul {
     list-style: none;
     text-align: center;
-}
-
-main ul a {
-    text-decoration: none;
 }
 
 main .card img {
@@ -421,3 +415,9 @@ footer>p {
 .login__card>button:last-child:hover {
     background-color: #f3f4f6;
 }
+
+
+/* main menu a,
+nav>menu a {
+    text-decoration: none;
+} */
